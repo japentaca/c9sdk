@@ -43,7 +43,7 @@
         "chai": "~1.5.0",
         "limiter": "^1.1.0",
         "mocha": "1.8.2",
-        "node":"14.21.3"
+"node":"14.21.3"
     },
     "scripts": {
         "start": "node server.js -p 46300  -a : -l 0.0.0.0 -w /home"
